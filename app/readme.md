@@ -1,0 +1,1 @@
+This Android app is a simple Kotlin-based application that demonstrates basic user interaction. It allows the user to enter their name into a text field and, upon pressing a button, displays a personalized greeting on the screen. The app uses an XML layout to define the user interface and a main activity written in Kotlin to handle user input and button click events.
